@@ -39,17 +39,19 @@ This project is intended as a backend solution for managing virtual classrooms i
   - Output: `Classroom Math101 has been created.`
 
 - Add Student
-  Command: `add_student [StudentID] [ClassName]`
-  Example: `add_student 12345 Math101`
-  Output: `Student 12345 has been enrolled in Math101.`
+  - Command: `add_student [StudentID] [ClassName]`
+  - Example: `add_student 12345 Math101`
+  - Output: `Student 12345 has been enrolled in Math101.`
 
 - Schedule Assignment
-  Command: `schedule_assignment [ClassName] [AssignmentDetails]`
-  Example: `schedule_assignment Math101 Homework 1`
-  Output: `Assignment for Math101 has been scheduled.`
+  - Command: `schedule_assignment [ClassName] [AssignmentDetails]`
+  - Example: `schedule_assignment Math101 Homework 1`
+  - Output: `Assignment for Math101 has been scheduled.`
 
 - Submit Assignment
-  Command: `submit_assignment [StudentID] [ClassName] [AssignmentDetails]`
-  Example: `submit_assignment 12345 Math101 Homework 1`
-  Output: `Assignment submitted by Student 12345 in Math101.`
+  - Command: `submit_assignment [StudentID] [ClassName] [AssignmentDetails]`
+  - Example: `submit_assignment 12345 Math101 Homework 1`
+  - Output: `Assignment submitted by Student 12345 in Math101.`
 
+##### Prerequisites
+The application is built using Java, so ensure you have [Java JDK](https://www.oracle.com/java/technologies/downloads/#java11) installed (version 11 or later).
