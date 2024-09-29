@@ -34,8 +34,11 @@ This project is intended as a backend solution for managing virtual classrooms i
 
 ### Console Commands
 - Add Classroom
+  
   Command: `add_classroom [ClassName]`
+  
   Example: `add_classroom Math101`
+  
   Output: `Classroom Math101 has been created.`
 
 - Add Student
