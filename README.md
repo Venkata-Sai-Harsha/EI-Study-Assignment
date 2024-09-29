@@ -57,7 +57,7 @@ This project is intended as a backend solution for managing virtual classrooms i
 The application is built using Java, so ensure you have [Java JDK](https://www.oracle.com/java/technologies/downloads/#java11) installed (version 11 or later).
 
 ### Running the Application
-- Clone the repository: `https://github.com/Venkata-Sai-Harsha/EI-Study-Assignment.git`
-- Navigate to the project directory: `cd EI-Study-Assignment`
-- Compile and run the application: `javac ClassroomManagerApp.java` && `java ClassroomManagerApp`
+- `javac ClassroomManagerApp.java`
+- `java ClassroomManagerApp`
+
 
