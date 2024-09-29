@@ -1,8 +1,9 @@
 # EI-Study-Assignment
 ## Virtual Classroom Manager Programming Exercise
 
-Personal info
+### Personal info
 Name: P.Venkata Sai Harsha
+___________________________
 Email: p.venkatasaiharsha@gmail.com
 College : Amrita Vishwa vidyapeetham
 
