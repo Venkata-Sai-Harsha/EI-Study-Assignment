@@ -60,4 +60,16 @@ The application is built using Java, so ensure you have [Java JDK](https://www.o
 - `javac ClassroomManagerApp.java`
 - `java ClassroomManagerApp`
 
-
+### Code Structure
+- `ClassroomManagerApp.java`: The main entry point of the application.
+- `Classroom.java`: Represents a virtual classroom.
+- `Student.java`: Represents a student with a unique ID and class enrollment.
+- `Assignment.java`: Handles assignment scheduling and submission.
+- `Auth.java`: Manages user authentication for secure access.
+  
+### Evaluation Criteria
+1. Code Quality: The project follows best practices, including the application of SOLID principles and appropriate design patterns.
+2. Functionality: All operations, from classroom creation to assignment submission, are handled efficiently.
+3. Global Conventions: Coding standards are adhered to for readability and maintainability.
+4. Error Handling: Includes logging, exception handling, and transient error handling to ensure smooth operation under various conditions.
+5. Code Walkthrough: The project structure is easy to follow, and decisions are well documented for each feature.
