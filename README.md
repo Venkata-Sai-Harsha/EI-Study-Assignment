@@ -53,5 +53,5 @@ This project is intended as a backend solution for managing virtual classrooms i
   - Example: `submit_assignment 12345 Math101 Homework 1`
   - Output: `Assignment submitted by Student 12345 in Math101.`
 
-##### Prerequisites
+#### Prerequisites: 
 The application is built using Java, so ensure you have [Java JDK](https://www.oracle.com/java/technologies/downloads/#java11) installed (version 11 or later).
