@@ -3,7 +3,7 @@
 
 ### Personal info
 Name: P.Venkata Sai Harsha
-___________________________
+---
 Email: p.venkatasaiharsha@gmail.com
 College : Amrita Vishwa vidyapeetham
 
