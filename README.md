@@ -16,6 +16,18 @@ This project is intended as a backend solution for managing virtual classrooms i
 
 ## Features
 - Classroom Management: Create, list, and delete classrooms to organize virtual educational spaces.
-- Student Enrollment: Add students to classrooms, list enrolled students, and manage student attendance.
+- Student Enrollment: Add students to classrooms, list enrolled students in each class.
 - Assignment Management: Schedule assignments for classrooms and allow students to submit their completed work.
 - User Authentication: Secure the system with user authentication, ensuring only authorized personnel can manage classrooms and assignments.
+
+### Functional Requirements
+#### Classroom Management:
+- Add a classroom by specifying the class name.
+- List all classrooms.
+- Remove an existing classroom.
+#### Student Management:
+- Enroll a student in a specific classroom using their student ID and class name.
+- List all students enrolled in a particular classroom.
+#### Assignment Management:
+- Schedule an assignment for a class with relevant details.
+- Submit assignments by students, including student ID, class name, and assignment details.
