@@ -31,3 +31,25 @@ This project is intended as a backend solution for managing virtual classrooms i
 #### Assignment Management:
 - Schedule an assignment for a class with relevant details.
 - Submit assignments by students, including student ID, class name, and assignment details.
+
+### Console Commands
+- Add Classroom
+  Command: `add_classroom [ClassName]`
+  Example: `add_classroom Math101`
+  Output: `Classroom Math101 has been created.`
+
+- Add Student
+  Command: `add_student [StudentID] [ClassName]`
+  Example: `add_student 12345 Math101`
+  Output: `Student 12345 has been enrolled in Math101.`
+
+- Schedule Assignment
+  Command: `schedule_assignment [ClassName] [AssignmentDetails]`
+  Example: `schedule_assignment Math101 Homework 1`
+  Output: `Assignment for Math101 has been scheduled.`
+
+- Submit Assignment
+  Command: `submit_assignment [StudentID] [ClassName] [AssignmentDetails]`
+  Example: `submit_assignment 12345 Math101 Homework 1`
+  Output: `Assignment submitted by Student 12345 in Math101.`
+
