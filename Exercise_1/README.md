@@ -1,6 +1,6 @@
 ## Design Patterns
 
-1. ### Behavioural design pattern
+### 1. Behavioural design pattern
    
 2. ### Creational design pattern
    
