@@ -2,10 +2,10 @@
 
 ### Behavioural design pattern
 
-1. Observer Pattern:
-  - Purpose: Defines a one-to-many dependency between objects, allowing multiple observers to receive updates from a subject (or observable) when its state changes.
-  - Usage: Commonly used in event handling systems, such as GUI applications or stock price monitoring systems, where multiple components need to respond to changes in data.
-  - Flexibility: Promotes loose coupling between the subject and observers, making it easy to add or remove observers without modifying the subject's code.
+  1. Observer Pattern:
+    - Purpose: Defines a one-to-many dependency between objects, allowing multiple observers to receive updates from a subject (or observable) when its state changes.
+    - Usage: Commonly used in event handling systems, such as GUI applications or stock price monitoring systems, where multiple components need to respond to changes in data.
+    - Flexibility: Promotes loose coupling between the subject and observers, making it easy to add or remove observers without modifying the subject's code.
 
 2. Strategy Pattern:
   - Purpose: Defines a family of algorithms, encapsulates each one, and makes them interchangeable, allowing the algorithm to vary independently from clients that use it.
